@@ -14,9 +14,9 @@ El sistema automatiza la extracción de datos mediante **Selenium**, permitiendo
 *   **Gráfico combinado:** Visualización de Precipitación vs. Temperatura.
 *   **Resumen estadístico:** Cálculos de totales acumulados, temperaturas extremas y otros indicadores climáticos.
 
-## Roadmap / Próximos pasos
+## Próximos pasos
 
-Estamos trabajando en las siguientes mejoras:
+Estoy trabajando en las siguientes mejoras:
 
 *   [ ] **Gestión de Estaciones:** Implementar un selector con una lista predefinida de estaciones para evitar errores de escritura y facilitar la selección.
 *   [ ] **Optimización de Selenium:** Mejorar la gestión de esperas (*waits*) para hacer la descarga más robusta ante posibles lentitudes del servidor.
